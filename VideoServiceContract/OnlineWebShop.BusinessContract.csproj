@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\VideoModels\OnlineWebShop.Model.csproj" />
+    <ProjectReference Include="..\ViewModel\OnlineWEbShop.ViewModel.csproj" />
+  </ItemGroup>
+
+</Project>
